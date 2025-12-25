@@ -4,7 +4,7 @@ This collection of scripts processes 2D-VBS-related configurations and generates
 Below are a description of the items in this collection:
 
 1. The "data" folder contains configurations of the 2D-VBS framework (e.g., grid size and parameters) and relevant input data.
-2. The "gen" folder contains the generator source code files.
+2. The "gen" folder contains the generated source code files (i.e., outputs).
 3. The "cache" folder contains the intermediate files produced during source generation; and they are constantly overwritten.
 4. The "functions" folder contains some utility functions that are needed; no modification required herein.
 
